@@ -5,7 +5,7 @@ import sys
 import os
 import tinify
 
-tinify.key = 'your key'
+tinify.key = 'your-key'
 
 
 def img_compression(filename, path):
